@@ -1,0 +1,284 @@
+# Blender MTL File: 'None'
+# Material Count: 26
+
+newmtl armor_A
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Radditz\\Textures\\RAD_000_Bust\\Armor_A.png
+
+newmtl armor_B
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Bust\\Armor_B.png
+
+newmtl armor_C
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Radditz\\Textures\\RAD_000_Bust\\Armor_C.png
+
+newmtl boots_A
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Boots\\Boots.png
+
+newmtl cable
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Hair\\Helmet_A.png
+
+newmtl eye_L
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Face_eye\\Eyes.png
+
+newmtl eye_R
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Face_eye\\Eyes.png
+
+newmtl eyebrows
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl glove
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Rist\\Glove.png
+
+newmtl helmet_A
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Hair\\Helmet_A.png
+
+newmtl helmet_B
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Hair\\Helmet_B.png
+
+newmtl helmet_C
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Hair\\Helmet_B.png
+
+newmtl helmet_R
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Hair\\Helmet_A.png
+
+newmtl mouth
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.015080 0.015080
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl skin_bustA
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Bust\\Skin_bust.png
+
+newmtl skin_face
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Face_base\\Skin_face.png
+
+newmtl skirt_A
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_skirt_scd\\Skirt_A.png
+
+newmtl skirt_B
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_skirt_scd\\Skirt_B.png
+
+newmtl spat_bustA
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Bust\\spat_bustA.png
+
+newmtl spat_leg
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Pants\\Spat_leg.png
+
+newmtl tooth
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl weapon_A
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Rist\\Weapon_A + Weapon_R.png
+
+newmtl weapon_B
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Rist\\Weapon_B.png
+
+newmtl weapon_C
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Rist\\Weapon_C.png
+
+newmtl weapon_D
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl weapon_R
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Rist\\Weapon_A + Weapon_R.png

@@ -1,0 +1,310 @@
+# Blender MTL File: 'None'
+# Material Count: 28
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Face_eye\\DATA000.png
+
+newmtl bandanna.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.639282 0.203322 0.043584
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Bust\\DATA000.png
+
+newmtl bandanna.005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.639282 0.203322 0.043584
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Bust\\DATA000.png
+
+newmtl belt.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.190718 0.043584 0.032732
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Pants\\DATA000.png
+
+newmtl belt_bakle.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.081793
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Pants\\DATA000.png
+
+newmtl bottms.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.129624 0.166910 0.703698
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Pants\\DATA000.png
+
+newmtl earring.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.216398 0.147580 0.050408
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Face_base\\DATA000.png
+
+newmtl gun.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.017739 0.020149 0.024571
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Pants\\DATA000.png
+
+newmtl gunbelt.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.216398 0.147580 0.050408
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Pants\\DATA000.png
+
+newmtl gunbelt_bakle.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Pants\\DATA000.png
+
+newmtl hair.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.032732 0.031637 0.032732
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Hair\\DATA000.png
+
+newmtl hair_front.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.032732 0.031637 0.032732
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Hair\\DATA000.png
+
+newmtl mouth.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.277363 0.301010
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Face_base\\DATA000.png
+
+newmtl shirts_A.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.017739 0.020149 0.024571
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Bust\\DATA000.png
+
+newmtl shirts_B.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Bust\\DATA000.png
+
+newmtl shirts_C.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.451769 0.499168 0.584369
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Bust\\DATA000.png
+
+newmtl shirts_D.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.451769 0.499168 0.584369
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Bust\\DATA000.png
+
+newmtl shose_A.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.015506 0.142311 0.504606
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Boots\\DATA000.png
+
+newmtl shose_B.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Boots\\DATA000.png
+
+newmtl skin.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.397546 0.277363
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Bust\\DATA000.png
+
+newmtl skin_eyebrows.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.397546 0.277363
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Face_base\\DATA000.png
+
+newmtl skin_eyelashes.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.397546 0.277363
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Face_base\\DATA000.png
+
+newmtl skin_face.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.397546 0.277363
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Face_base\\DATA000.png
+
+newmtl skin_hand.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.397546 0.277363
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Rist\\DATA000.png
+
+newmtl skin_leg.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.397546 0.277363
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Pants\\DATA000.png
+
+newmtl socks.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.017739 0.152961 0.004145
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Boots\\DATA001.png
+
+newmtl tongue.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.277363 0.301010
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Face_base\\DATA000.png
+
+newmtl tooth.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Characters\\Android 17\\Android 17\\Textures\\G17_000_Face_base\\DATA000.png
